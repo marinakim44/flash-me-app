@@ -42,8 +42,11 @@ export default function Card({ title, description, tags, id, cb }) {
           ))}
         </div>
       )}
-      <div style={{ display: "flex", justifyContent: "flex-end" }}>
+      <div style={{ display: "flex", justifyContent: "flex-end", gap: "5px" }}>
         <Button variant="outline-secondary" onClick={deleteCard}>
+          Update
+        </Button>
+        <Button variant="outline-danger" onClick={deleteCard}>
           Delete
         </Button>
       </div>

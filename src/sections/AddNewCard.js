@@ -126,7 +126,7 @@ export default function AddNewCard({ cb }) {
         <Button
           onClick={handleSubmit}
           variant="outline-success"
-          style={{ marginTop: 10, width: 100 }}
+          style={{ marginTop: 10, width: 200 }}
         >
           Add
         </Button>
