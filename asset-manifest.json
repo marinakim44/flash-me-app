@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flash-me-app/static/css/main.ff02f4b5.css",
+    "main.js": "/flash-me-app/static/js/main.be27401d.js",
+    "static/js/453.9fbb8109.chunk.js": "/flash-me-app/static/js/453.9fbb8109.chunk.js",
+    "index.html": "/flash-me-app/index.html",
+    "main.ff02f4b5.css.map": "/flash-me-app/static/css/main.ff02f4b5.css.map",
+    "main.be27401d.js.map": "/flash-me-app/static/js/main.be27401d.js.map",
+    "453.9fbb8109.chunk.js.map": "/flash-me-app/static/js/453.9fbb8109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.be27401d.js"
+  ]
+}
