@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/flash-me-app/static/css/main.ff02f4b5.css",
-    "main.js": "/flash-me-app/static/js/main.973fb542.js",
+    "main.js": "/flash-me-app/static/js/main.170e5596.js",
     "static/js/453.9fbb8109.chunk.js": "/flash-me-app/static/js/453.9fbb8109.chunk.js",
+    "static/media/logo.png": "/flash-me-app/static/media/logo.64627298df694de8b1e6.png",
     "index.html": "/flash-me-app/index.html",
     "main.ff02f4b5.css.map": "/flash-me-app/static/css/main.ff02f4b5.css.map",
-    "main.973fb542.js.map": "/flash-me-app/static/js/main.973fb542.js.map",
+    "main.170e5596.js.map": "/flash-me-app/static/js/main.170e5596.js.map",
     "453.9fbb8109.chunk.js.map": "/flash-me-app/static/js/453.9fbb8109.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.973fb542.js"
+    "static/js/main.170e5596.js"
   ]
 }
