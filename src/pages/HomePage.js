@@ -30,7 +30,7 @@ export default function HomePage() {
         <AddNewCard cb={getUpdatedCards} />
         <Search />
       </div>
-      <div style={{ paddingTop: "450px" }}>
+      <div style={{ paddingTop: "500px" }}>
         {cards &&
           cards
             .sort((a, b) =>

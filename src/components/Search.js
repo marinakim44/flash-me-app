@@ -2,7 +2,9 @@ import React from "react";
 
 export default function Search() {
   return (
-    <div style={{ textAlign: "center", paddingTop: "20px" }}>
+    <div
+      style={{ textAlign: "center", padding: "20px 0px", background: "black" }}
+    >
       <input
         style={{
           padding: "5px",

@@ -81,7 +81,7 @@ export default function AddNewCard({ cb }) {
   return (
     <div
       style={{
-        backgroundColor: "black",
+        backgroundColor: "#ff66c4",
         textAlign: "center",
         padding: 30,
       }}
@@ -125,8 +125,8 @@ export default function AddNewCard({ cb }) {
 
         <Button
           onClick={handleSubmit}
-          variant="outline-success"
-          style={{ marginTop: 10, width: 200 }}
+          variant="dark"
+          style={{ marginTop: 10, width: "100%" }}
         >
           Add
         </Button>
